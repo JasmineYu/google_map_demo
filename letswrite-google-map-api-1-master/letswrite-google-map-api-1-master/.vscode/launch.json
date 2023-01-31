@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open 3-init.html",
+            "file": "c:\\Users\\Jasmine\\Documents\\1. Study\\2020- Software Engineering\\99_TSMC\\2023_CareerHack\\sample_code\\letswrite-google-map-api-1-master\\letswrite-google-map-api-1-master\\3-init.html"
+        }
+    ]
+}
